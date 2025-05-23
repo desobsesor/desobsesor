@@ -1,10 +1,9 @@
 
 <h2 align="center" style="font-size:1rem;">
-  Apasionado por la informática y la tecnología, con más de 10 años de experiencia en ingeniería de software, enfocado en análisis, diseño, investigación y desarrollo. Con un historial sólido de éxito en el desarrollo e implementación de soluciones innovadoras para diversos sectores, tanto a nivel nacional como internacional, con un enfoque profesional y entusiasta, siempre en busca de la excelencia.
+ Passionate about IT and technology, with over 10 years of experience in software engineering, focusing on analysis, design, research, and development. With a solid track record of success in developing and implementing innovative solutions for diverse sectors, both nationally and internationally, he maintains a professional and enthusiastic approach, always striving for excellence.
 </h2>
 
-Actualmente, con el apoyo de la IA, genero agentes para liderar mis procesos de desarrollo full stack. Altamente dispuesto a aprender nuevas tecnologías y a trabajar efectivamente en equipos.
-<p align="center"></p>
+Currently, with the support of AI, I generate agents to lead my full-stack development processes. I'm highly willing to learn new technologies and work effectively in teams.
 
 ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
@@ -29,24 +28,24 @@ Actualmente, con el apoyo de la IA, genero agentes para liderar mis procesos de 
 
 ---
 
-### 🛠 Últimos proyectos
-- 🔐 Sistema de Consulta de libros con Java, Spring boot, PL/SQL, Redis, google books api, autenticación con NestJS y JWT, Swagger, etc.
-- 🛒 E-commerce con NodeJS, NestJS, PostgreSQL, Swagger, Socket, React, Material UI e IA
-- 📱 App de control IoT con React Native y Bluetooth.
-- 😄 App de validacion de emociones. Vibra, NodeJS, NestJS, MongoDB, React, React Native, Tailwind, Expo IA
-- 🌐 Plataforma de agendamiento de servicios veterinarios. .NET, Angular y SQL Server
+### 🛠 Latest projects
+- 🔐 Book Query System with Java, Spring Boot, PL/SQL, Redis, Google Books API, authentication with NestJS and JWT, Swagger, etc.
+- 🛒 E-commerce with NodeJS, NestJS, PostgreSQL, Swagger, Socket, React, Material UI and AI.
+- 📱 IoT control app with React Native and Bluetooth.
+- 😄 Emotion validation app. Vibra, NodeJS, NestJS, MongoDB, React, React Native, Tailwind, Expo and AI.
+- 🌐 Veterinary service scheduling platform. .NET, Angular, and SQL Server.
 
 ---
 
-### 💡 Actualmente aprendiendo:
+### 💡 Currently learning
 - 🐳 Docker y Docker Compose
 - ☁️ AWS (EC2, S3, RDS)
-- 🧱 Arquitectura Hexagonal y DDD
-- 🚀 MCP, n8n y Agentes de IA
+- 🧱 Hexagonal Architecture and DDD
+- 🚀 MCP, n8n and AI Agents
 
 ---
 
-### 📫 ¿Quieres contactarme?
+### 📫 ¿Do you want to contact me?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yovany-su%C3%A1rez-silva-78202029)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yovanysuarezsilva@gmail.com)
@@ -54,8 +53,8 @@ Actualmente, con el apoyo de la IA, genero agentes para liderar mis procesos de 
 
 ---
 
-### ⚡ Frase que me define:
-> _"Fuera de la caridad no hay salvación."_
+### ⚡ Phrase that defines me
+> _"There is no salvation outside of charity."_
 <!--
 **desobsesor/desobsesor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
